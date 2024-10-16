@@ -4,6 +4,16 @@
 ### Nim : 312210581
 ### Kelas : TI.22.A.5
 
+ ### Latihan :
+Lakukan enkripsi Playfair Cihper pada plaintext:
+
+GOOD BROOM SWEEP CLEAN
+REDWOOD NATIONAL STATE PARK
+JUNK FOOD AND HEALTH PROBLEMS
+
+Dengan kunci “TEKNIK INFORMATIKA”
+
+
 ```
 # Berikut kode python nya
 
