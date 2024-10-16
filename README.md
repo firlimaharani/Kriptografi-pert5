@@ -97,10 +97,12 @@ for plaintext in plaintexts:
     print(f"Plaintext: {plaintext}")
     print(f"Encrypted: {encrypted}")
     print(f"Decrypted: {decrypted}\n")
+```
 
 ## Hasil Run
+
+![Screenshot 2024-10-16 134519](https://github.com/user-attachments/assets/2a2309d2-605c-4971-be75-ab22aab1a0c3)
 
 ![Screenshot 2024-10-16 134536](https://github.com/user-attachments/assets/7b6ba2f2-6695-4dac-b14b-c03d247bed1b)
 
 
-![Screenshot 2024-10-16 134519](https://github.com/user-attachments/assets/2a2309d2-605c-4971-be75-ab22aab1a0c3)
