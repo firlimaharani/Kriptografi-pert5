@@ -1,9 +1,7 @@
 ### Tugas Kriptografi
 
 ### Nama : Tyanshi Firli Maharani 
-
 ### Nim : 312210581
-
 ### Kelas : TI.22.A.5
 
 ```
